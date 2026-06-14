@@ -111,16 +111,6 @@
 
 ---
 
-<!-- ─────────────────────────  TROPHIES  ───────────────────────── -->
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshal0001&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 <!-- ─────────────────────────  FEATURED PROJECTS  ───────────────────────── -->
 
 ### 🧩 Featured Project
@@ -141,26 +131,6 @@ A conversational AI agent (Strands + AWS Bedrock) that turns plain-language merc
 
 ---
 
-<!-- ─────────────────────────  BLOG POSTS  ───────────────────────── -->
-
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- This list updates automatically via GitHub Actions (setup below). -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<!-- ─────────────────────────  SPOTIFY  ───────────────────────── -->
-
-### 🎧 Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/317ifwne4ehvatmgutmn5243ptzy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317ifwne4ehvatmgutmn5243ptzy&count=3" alt="Spotify recently played"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <em>Thanks for stopping by — let's build something great together!</em>
