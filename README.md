@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Software engineer with 2.5+ years building production full-stack and AI-agent systems.<br/>
+  Software engineer with three years building production full-stack and AI-agent systems.<br/>
   I build AI agents that cite their evidence, and software for European data standards and regulations
 </p>
 
@@ -62,8 +62,8 @@ A conversational AI designer that turns a merchant's plain-language description 
 **🧾 [XRechnung Validator](https://github.com/harshal0001/xrechnung-validator)**: `Python · lxml · Saxon (Schematron) · React` · [Live](https://xrechnung.harshalkothari.tech)<br/>
 Validates German e-invoices (XRechnung, ZUGFeRD, UBL, CII) against EN 16931 and the KoSIT rule set, then explains each failure in plain German or English: what is wrong, why it matters, and how to fix it.
 
-**🔋 [Batteriepass](https://github.com/harshal0001/batteriepass)**: `Python · PyTorch · ONNX · SAMM · Pydantic`<br/>
-A digital asset health passport. It builds Catena-X battery passports, checks them against Annex XIII of EU Battery Regulation 2023/1542, and estimates state of health and remaining useful life with calibrated uncertainty and drift warnings. A second profile applies the same method to turbofan engines.
+**🔋 [Batteriepass](https://github.com/harshal0001/batteriepass)**: `Python · SAMM · Pydantic · FastAPI` · in progress<br/>
+A digital battery passport, in progress. Built so far: a SAMM-to-Pydantic generator for the Catena-X aspect model (65 entities), a conformance engine for all 28 mandatory Annex XIII points of EU Battery Regulation 2023/1542 with the rule set built from the regulation text, and the passport API. Planned next: state-of-health models with calibrated intervals, and a turbofan-engine profile.
 
 **🛣️ [DATEX II Road-Weather Adapter](https://github.com/harshal0001/datex2-road-weather-adapter)**: `Python · FastAPI · xsdata · Leaflet`<br/>
 Fuses Bavaria's road-weather sources (SWS road stations, DWD, LoRaWAN sensors, OpenWeatherMap) field by field with full provenance and emits XSD-validated **DATEX II v3** that any European traffic centre can consume. New sources plug in as one class, and new regions as one YAML profile.
@@ -74,14 +74,14 @@ Fuses Bavaria's road-weather sources (SWS road stations, DWD, LoRaWAN sensors, O
 
 ### 🛠️ Tech Stack
 
-**Languages**: Python, TypeScript, JavaScript, Dart, Kotlin, SQL
+**Languages**: Python, TypeScript, JavaScript, Dart, SQL
 
 **AI &amp; Agents**: LangGraph, LangChain, Strands Agents, MCP, AWS Bedrock, Anthropic Claude, NVIDIA Nemotron, RAG / Embeddings
 
-**ML**: PyTorch, scikit-learn, ONNX Runtime
+**ML**: scikit-learn, gradient boosting, embeddings and reranking (pgvector, BM25)
 
 **Backend**: FastAPI, Pydantic, NestJS, Node.js, SQLAlchemy, OAuth 2.1 / PKCE
 
-**Frontend &amp; Mobile**: React, Next.js, Tailwind CSS, Flutter, Riverpod, Jetpack Compose
+**Frontend &amp; Mobile**: React, Next.js, Tailwind CSS, Flutter, Riverpod
 
 **Cloud, Data &amp; DevOps**: AWS (Lambda, DynamoDB, CDK), PostgreSQL, SQLite, Firebase, Docker, GitHub Actions
